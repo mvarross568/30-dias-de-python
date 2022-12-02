@@ -17,3 +17,9 @@ print((type)(['maria', 'python', 'españa']))
 print((type)("maria"))
 print((type)("python"))
 print((type)("españa"))
+print((type)("7"))
+print((type)("3.5"))
+print((type)("4a"))
+print((type)("hola mundo"))
+print (True) # Do I like dance? If I like it, then value is true
+print(False) # Do I like dance? If I like it, then value is false
