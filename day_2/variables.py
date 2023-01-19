@@ -62,5 +62,4 @@ print(f"el pais donde vivo {country}")
 age = input("cuantos años tienes: ")
 print(f"tengo {age} años")
 
-
 help("keywords")
