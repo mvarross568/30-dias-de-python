@@ -83,3 +83,5 @@ else:
     print("su numero no es par")
 
 print(7//3 == int(2.7))
+print(type("10") == type(10))
+print(int(9.8)==10)
