@@ -5,7 +5,7 @@ b = input("Cual es la base: ")
 print(f"La base es {b}")
 h = input("Cual es la altura: ")
 print(f"La altura es {h}")
-area_triangle = o.5 * b * h #4
+area_triangle = 0.5 * b * h #4
 
 a = input("Cual es el valor del lado a: ") #5
 print(f"El valor del lado a es {a}")
@@ -35,7 +35,7 @@ print(circumference_of_circle)
 funcion1 = "y = 2x - 2" #8
 print("Su función es: " +funcion1)
 pendientef1 = str(2)
-print("Su pendiente es: " +penfientef1)
+print("Su pendiente es: " +pendientef1)
 interceptx= (2*0 -2)
 print("el intercepto de x es:")
 print(0,interceptx)
