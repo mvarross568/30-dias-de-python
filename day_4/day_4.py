@@ -15,7 +15,7 @@ print(full_string_2)
 
 company = full_string_2 #3
 print(company) #4
-len(print(company)) #5
+print(len(company)) #5
 print(company.upper()) #6
 print(company.lower()) #7
 
@@ -24,6 +24,5 @@ print(company.title())
 print(company.swapcase())
 
 first_slice = company[0:3] #9
-
-
+print(first_slice)
 
