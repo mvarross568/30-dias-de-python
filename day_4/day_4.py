@@ -25,4 +25,3 @@ print(company.swapcase())
 
 first_slice = company[0:3] #9
 print(first_slice)
-
