@@ -42,3 +42,8 @@ last_letter = company{-1} #16
 print(last_letter)
 index_10 = company{10} #17
 print(index_10)
+
+PFE = "Python for eveyone" #18
+CFA = "Coding for all" #19
+print(CFA.index("C")) #20
+print(CFA.index("f")) #21
