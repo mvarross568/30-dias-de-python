@@ -25,3 +25,20 @@ print(company.swapcase())
 
 first_slice = company[0:3] #9
 print(first_slice)
+
+company.index(coding)       #10
+
+company.replace("coding" , "Python")        #11
+
+company.replace("Python" , "Everyone")      #12
+company.replace("all" , "Python")
+print(company.split( )) #13
+string_2 = "Facebook , Google , Microsoft , Apple , IBM , Oracle , Amazon" #14
+print(string_2.split(", "))
+
+first_letter = company{0} #15
+print(first_letter)
+last_letter = company{-1} #16
+print(last_letter)
+index_10 = company{10} #17
+print(index_10)
