@@ -18,7 +18,7 @@ it_companies.append("Microsoft") #11
 it_companies.insert(4, "Lenovo") #12
 it_companies[1] =it_companies[1].upper() #13
 print("joined list: \t", "#; ".join(it_companies)) #14
-print("GOOGLE Exist: \t", "GOOGLE" in (it_companies)) #14
+print("GOOGLE Exist: \t", "GOOGLE" in (it_companies)) #15
 it_companies.sort() #16
 it_companies.reverse() #17
 it_companies.pop() #18
@@ -28,7 +28,7 @@ it_companies.pop(1) #21
 it_companies.pop(4) #22
 it_companies.pop(8) #23
 it_companies.clear() #24
-del it_companies
+del it_companies #25
 front_end = ["HTML", "CSS", "JS", "React", "Redux" ] #26
 back_end = ["Node", "Express", "MongoDB"]
 front_end = full_stack.copy() #27
