@@ -25,3 +25,7 @@ print(company.swapcase())
 
 first_slice = company[0:3] #9
 print(first_slice)
+
+company.index(coding) #10
+company.replace("coding","Python") #11
+company.replace
