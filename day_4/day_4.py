@@ -38,9 +38,9 @@ print(string_2.split(", "))
 
 first_letter = company[0] #15
 print(first_letter)
-last_letter = company{-1} #16
+last_letter = company [-1] #16
 print(last_letter)
-index_10 = company{10} #17
+index_10 = company [10] #17
 print(index_10)
 
 PFE = "Python for eveyone" #18

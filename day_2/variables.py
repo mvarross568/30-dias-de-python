@@ -13,7 +13,7 @@ a, b = 4, 8
 print(country , city)
 
 print(type(full_name))
-prin (len(full_name))
+print (len(full_name))
 print(len(last_name))
 
 num_one = 5
@@ -25,11 +25,11 @@ print(total)
 diff = num_one -  num_two
 print(total)
 
-exp = pow(num_on , num_two)
+exp = pow(num_one, num_two)
 print(exp)
 
 floor_division = num_one // num_two
-print(floor_divide)
+print(floor_division)
 
 division = num_one / num_two
 print(division)

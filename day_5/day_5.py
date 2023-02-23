@@ -6,7 +6,7 @@ print("lenght:", len(list_1)) #3
 list_1[1 : 3 : 5] #4
 print(list_1)
 mixed_data_types = ["Maria", "16", "1.70", "Single", "Jerez"] #5
-it_companies = ["Facebook", "GoogLe", "Microsoft", "Apple", "IDM"; "Oracle"; "Amazon"] #6
+it_companies = ["Facebook", "Google", "Microsoft", "Apple", "IDM", "Oracle", "Amazon"] #6
 print(it_companies) #7
 len(it_companies) #8
 print("first company \t", it_companies[0]) #9
