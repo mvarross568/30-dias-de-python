@@ -11,5 +11,8 @@ student_dictionary["skills"].append("leadership","responsibility") #6
 keys = dog.keys #7
 print(keys)
 values = dog.values #8
+print(dog.items()) #9
+dog.pop("first_name") #10
+del dog #11
 
 
