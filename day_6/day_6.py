@@ -1,4 +1,4 @@
-#tengo que subirlo desde mi ordenador
+
 empty_tuple = ()
 print(empty_tuple)
 tp1 = ("Pedro", "Noelia")
