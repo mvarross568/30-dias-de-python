@@ -15,8 +15,13 @@ for x in range(1,4): #level1-4
     for y in range (1,4):
         print ("# "*8)
 
-numbers = (0,1,2,3,4,5,6,7,8,9,10)
+numbers = (0,1,2,3,4,5,6,7,8,9,10) #level1-5
 for number in numbers:
     if number == 3:
         continue
-print
+
+langs = ["Python", "Numpy", "Pmndas", "Django", "Flask"] #level1-6
+for Langs in langs:
+    print(1)
+
+     
